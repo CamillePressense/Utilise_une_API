@@ -1,0 +1,33 @@
+body {
+    background-color: darkslategrey;
+    color :rgb(235, 235, 213);
+}
+
+img {
+    width: 12em;;
+}
+
+div {
+    display: flex;
+    flex-direction: raw;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    margin-bottom: 2em;
+    padding-bottom: 0.9em;
+    border-bottom: 4px rgb(235, 235, 213) dotted;
+}
+
+h2 {
+    font-family: cursive;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 2em;
+}
